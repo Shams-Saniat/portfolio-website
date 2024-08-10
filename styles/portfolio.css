@@ -182,6 +182,10 @@ footer{
     width: 50%;
 }
 
+.footer-icon-gaps{
+    margin: 10px;
+}
+
 footer input[type="text"], footer input[type="email"], footer textarea{
     height: 64px;
     width: 100%;
