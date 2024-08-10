@@ -19,4 +19,4 @@ This is a **sample portfolio page** created to showcase my skills in **HTML** an
 ## Contact
 Feel free to reach out to me for collaboration or inquiries!
 
-- **Email**: your-email@example.com
+- **Email**: shamssaniat@gmail.com
