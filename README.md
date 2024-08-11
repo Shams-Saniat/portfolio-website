@@ -13,7 +13,7 @@ This is a **sample portfolio page** created to showcase my skills in **HTML** an
 - **CSS**: Styling the page with a focus on layout, typography, and responsiveness.
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/sample-portfolio-page.git`
+1. Clone the repository: `git clone https://github.com/Shams-Saniat/portfolio-website.git`
 2. Open the `index.html` file in your browser to view the portfolio page.
 
 ## Contact
