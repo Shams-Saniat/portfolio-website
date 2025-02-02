@@ -14,7 +14,7 @@ This is a **sample portfolio page** created to showcase my skills in **HTML** an
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/Shams-Saniat/portfolio-website.git`
-2. Open the `index.html` file in your browser to view the portfolio page.
+2. Open the `https://shams-saniat.github.io/portfolio-website/` file in your browser to view the portfolio page.
 
 ## Contact
 Feel free to reach out to me for collaboration or inquiries!
